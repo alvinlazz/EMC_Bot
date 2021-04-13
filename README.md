@@ -14,7 +14,7 @@
 ⦿ @EMCL1-BH quote		 : Quote of the day on your choice \
 ⦿ @EMCL1-BH congrats EMP_Name	 : Give congratulations on work/service! \
 ⦿ Use / to see some direct option \
-⦿ @EMCL1-BH help		 : You are here Now! \
+⦿ @EMCL1-BH help		 : You are here Now! 
 
 If you have any suggestion 💡 /feature request 📙 /found bug 🐛. 
 Mail us : emc-bh@endurance.com 
